@@ -233,6 +233,14 @@
   width:104px;
   word-wrap:break-word;
 }
+#u3000_ann {
+  border-width:0px;
+  position:absolute;
+  left:633px;
+  top:511px;
+  width:1px;
+  height:1px;
+}
 #u3001_div {
   border-width:0px;
   position:absolute;
@@ -274,6 +282,14 @@
   top:19px;
   width:253px;
   word-wrap:break-word;
+}
+#u3001_ann {
+  border-width:0px;
+  position:absolute;
+  left:900px;
+  top:511px;
+  width:1px;
+  height:1px;
 }
 #u3002_div {
   border-width:0px;
@@ -318,6 +334,14 @@
   top:7px;
   width:135px;
   word-wrap:break-word;
+}
+#u3002_ann {
+  border-width:0px;
+  position:absolute;
+  left:664px;
+  top:577px;
+  width:1px;
+  height:1px;
 }
 #u3003_img {
   border-width:0px;
